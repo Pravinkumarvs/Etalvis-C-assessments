@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-void disp_2digit_even_sum6();
+
 int main()
 {
     disp_2digit_even_sum6();

@@ -32,6 +32,10 @@ Etalvis-C-assessments/
 ├── Assessment 1
 ├── Assessment 2
 ├── Assessment 3
+├── Assessment 4
+├── Assessment 5
+├── Assessment 6
+├── Assessment 7
 └── README.md
 ```
 
@@ -67,8 +71,3 @@ This repository is maintained for learning purposes and will continue to be upda
 
 ---
 
-## 👨‍💻 Author
-
-**Pravin Kumar**
-
-ECE Undergraduate
